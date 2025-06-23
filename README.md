@@ -55,3 +55,7 @@ Grayscale input images are transformed into visually plausible colored images us
 
 - Based on the work by **Richard Zhang et al.**
 - Colorization technique from the paper: *Colorful Image Colorization*
+
+## 👨‍💻 Author  
+**Akiti Sri Kalyan Reddy**  
+Data Science and Artificial Intelligence  
